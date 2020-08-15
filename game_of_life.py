@@ -16,6 +16,7 @@ abc = '''
 bob2o$5o$2o3bo$3b2o$3b2o$6b4o$5bo3bo$4b2o2b2o$o2bo3bo$7o2$7o$o2bo3bo$
 4b2o2b2o$5bo3bo$6b4o$3b2o$3b2o$2o3bo$5o$bob2o!
 '''
+
 s_alive = set([])
 x = 0
 y = 0
